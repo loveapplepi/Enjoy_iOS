@@ -37,7 +37,9 @@ $ vi Podfile
 pod 'SkeletonView' 추가 
 ```
 
-![스크린샷 2019-04-26 오후 3.20.57](/Users/kimsuhyeon/Desktop/ksh/iOS/Enjoy_iOS/SkeletonViewTutorial/images/스크린샷 2019-04-26 오후 3.20.57.png)
+![podfileimg](images/podfileimg.png)
+
+
 
 <br/><br/>
 
@@ -57,8 +59,6 @@ $ pod install
 
  
 
-***
-
 
 
 <br/>
@@ -73,7 +73,7 @@ $ pod install
 
 
 
-![imageviewOn](/Users/kimsuhyeon/Desktop/ksh/iOS/Enjoy_iOS/SkeletonViewTutorial/images/imageviewOn.png)
+![imageviewOn](images/imageviewOn.png)
 
 
 
@@ -97,9 +97,9 @@ view에 4가지 타입의 skeleton을 선택해서 적용할 수있어요
 
 
 
-|                            Solid                             |                           Gradient                           |                        Solid Animated                        |                      Gradient Animated                       |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![solid](/Users/kimsuhyeon/Desktop/ksh/iOS/Enjoy_iOS/SkeletonViewTutorial/images/solid.png) | ![gradient](/Users/kimsuhyeon/Desktop/ksh/iOS/Enjoy_iOS/SkeletonViewTutorial/images/gradient.png) | ![solid_animated](/Users/kimsuhyeon/Desktop/ksh/iOS/Enjoy_iOS/SkeletonViewTutorial/images/solid_animated.gif) | ![gradient_animated](/Users/kimsuhyeon/Desktop/ksh/iOS/Enjoy_iOS/SkeletonViewTutorial/images/gradient_animated.gif) |
+|           Solid            |             Gradient             |                Solid Animated                |                 Gradient Animated                  |
+| :------------------------: | :------------------------------: | :------------------------------------------: | :------------------------------------------------: |
+| ![solid](images/solid.png) | ![gradient](images/gradient.png) | ![solid_animated](images/solid_animated.gif) | ![gradient_animated](images/gradient_animated.gif) |
 
 
 
@@ -119,8 +119,6 @@ view에 4가지 타입의 skeleton을 선택해서 적용할 수있어요
 
 
 <img src="images/simulator.png" width="50%">
-
-***
 
 
 
