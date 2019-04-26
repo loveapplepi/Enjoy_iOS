@@ -16,7 +16,7 @@
 
 SkeletonView를 사용하기 위해선 우선 코코아팟을 설치해야 해요.
 
-<br/>
+<br/><br/>
 
 ### CocoaPods 설치 
 
@@ -24,7 +24,7 @@ SkeletonView를 사용하기 위해선 우선 코코아팟을 설치해야 해�
 $ sudo gem install cocoapods
 ```
 
-
+<br/>
 
 <br/>
 
@@ -39,13 +39,13 @@ pod 'SkeletonView' 추가
 
 ![스크린샷 2019-04-26 오후 3.20.57](/Users/kimsuhyeon/Desktop/ksh/iOS/Enjoy_iOS/SkeletonViewTutorial/images/스크린샷 2019-04-26 오후 3.20.57.png)
 
-<br/>
+<br/><br/>
 
 ```
 $ pod install
 ```
 
-
+<br/>
 
 이제 엑스코드 프로젝트를 열고 storyboard에서 다음과 같이 화면을 구성해 줍니다. 
 
@@ -55,13 +55,19 @@ $ pod install
 
  
 
+***
 
+
+
+<br/>
 
 이미지뷰를 선택하고 Attributes inspector 보면 아래와 같이 View에 Is Skeletonable 이라는게 생겼을 거에요.
 
 이걸 On으로 해서 적용해 줍니다.
 
-A<br/>
+<br/>
+
+<br/>
 
 
 
@@ -69,13 +75,15 @@ A<br/>
 
 
 
-물론, 코드로도 적용 가능해요.
+<br/>
+
+<br/>물론, 코드로도 적용 가능해요.
 
 ```
 imageView.isSkeletonable = true
 ```
 
-<br/>
+<br/><br/>
 
 그리고 VC 으로 가서 `import SkeletonView` 한 후에
 
@@ -104,15 +112,19 @@ view에 4가지 타입의 skeleton을 선택해서 적용할 수있어요
 
 
 
-<br/>
+<br/><br/>
 
 
 
 <img src="images/simulator.png" width="50%" align="left">
 
+***
 
 
 
+
+
+<br/>
 
 <br/>
 
