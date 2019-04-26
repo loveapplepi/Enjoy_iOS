@@ -51,7 +51,9 @@ $ pod install
 
 
 
-<img src="images/storyboard.png" width="30%" align="left">
+<img src="images/storyboard.png" width="30%">
+
+
 
  
 
@@ -116,7 +118,7 @@ view에 4가지 타입의 skeleton을 선택해서 적용할 수있어요
 
 
 
-<img src="images/simulator.png" width="50%" align="left">
+<img src="images/simulator.png" width="50%">
 
 ***
 
