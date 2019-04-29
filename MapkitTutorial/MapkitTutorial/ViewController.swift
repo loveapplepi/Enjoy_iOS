@@ -29,9 +29,17 @@ class ViewController: UIViewController {
     }
 
     @IBAction func rotateLeft(_ sender: Any) {
+        UIView.animate(withDuration: 1.0, animations: {
+            self.camera!.heading -= 10
+            self.mapView.camera = self.camera!
+        })
     }
     
     @IBAction func rotateRight(_ sender: Any) {
+        UIView.animate(withDuration: 1.0, animations: {
+            self.camera!.heading += 10
+            self.mapView.camera = self.camera!
+        })
     }
 }
 
