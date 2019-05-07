@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MapkitTutorial
 //
-//  Created by 김수현 on 29/04/2019.
+//  Created by loveapplepi on 29/04/2019.
 //  Copyright © 2019 loveapplepi. All rights reserved.
 //
 
